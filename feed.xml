@@ -3,10 +3,10 @@
   <channel>
     <title>Quotes</title>
     <description>A Jekyll project to save and share quotes.</description>
-    <link>harshi.co/Quotes/</link>
-    <atom:link href="harshi.co/Quotes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2015 21:56:01 +0530</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2015 21:56:01 +0530</lastBuildDate>
+    <link>http://harshi.co/Quotes/</link>
+    <atom:link href="http://harshi.co/Quotes/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 Sep 2015 22:11:19 +0530</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2015 22:11:19 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;&lt;span style=&quot;text-align: center; text-decoration: underline; color: #0B0080;&quot;&gt;www.ha-ha-&lt;em&gt;not-so-much&lt;/em&gt;.com&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Nov 2002 05:59:11 +0530</pubDate>
-        <link>harshi.co/Quotes/friends/chandler</link>
-        <guid isPermaLink="true">harshi.co/Quotes/friends/chandler</guid>
+        <link>http://harshi.co/Quotes/friends/chandler</link>
+        <guid isPermaLink="true">http://harshi.co/Quotes/friends/chandler</guid>
         
         
         <category>friends</category>
@@ -38,8 +38,8 @@
 
 </description>
         <pubDate>Fri, 26 Feb 1999 03:45:10 +0530</pubDate>
-        <link>harshi.co/Quotes/friends/ross</link>
-        <guid isPermaLink="true">harshi.co/Quotes/friends/ross</guid>
+        <link>http://harshi.co/Quotes/friends/ross</link>
+        <guid isPermaLink="true">http://harshi.co/Quotes/friends/ross</guid>
         
         
         <category>friends</category>
@@ -55,8 +55,8 @@
 &lt;h4 id=&quot;that-they-know-we-know&quot;&gt;THAT THEY KNOW WE KNOW&lt;/h4&gt;
 </description>
         <pubDate>Fri, 12 Feb 1999 03:45:10 +0530</pubDate>
-        <link>harshi.co/Quotes/friends/phoebe</link>
-        <guid isPermaLink="true">harshi.co/Quotes/friends/phoebe</guid>
+        <link>http://harshi.co/Quotes/friends/phoebe</link>
+        <guid isPermaLink="true">http://harshi.co/Quotes/friends/phoebe</guid>
         
         
         <category>friends</category>
@@ -77,8 +77,8 @@
 
 </description>
         <pubDate>Thu, 29 Jan 1998 05:44:11 +0530</pubDate>
-        <link>harshi.co/Quotes/friends/joey</link>
-        <guid isPermaLink="true">harshi.co/Quotes/friends/joey</guid>
+        <link>http://harshi.co/Quotes/friends/joey</link>
+        <guid isPermaLink="true">http://harshi.co/Quotes/friends/joey</guid>
         
         
         <category>friends</category>
@@ -90,8 +90,8 @@
         <description>&lt;h1 id=&quot;thats-not-even-a-word&quot;&gt;THAT’S NOT EVEN A WORD&lt;/h1&gt;
 </description>
         <pubDate>Fri, 16 Jan 1998 03:45:10 +0530</pubDate>
-        <link>harshi.co/Quotes/friends/monica</link>
-        <guid isPermaLink="true">harshi.co/Quotes/friends/monica</guid>
+        <link>http://harshi.co/Quotes/friends/monica</link>
+        <guid isPermaLink="true">http://harshi.co/Quotes/friends/monica</guid>
         
         
         <category>friends</category>
@@ -105,8 +105,8 @@
 &lt;h6 id=&quot;did-my-back-hurt-your-knife&quot;&gt;did my back hurt your knife?&lt;/h6&gt;
 </description>
         <pubDate>Fri, 29 Sep 1995 03:45:10 +0530</pubDate>
-        <link>harshi.co/Quotes/friends/rachel</link>
-        <guid isPermaLink="true">harshi.co/Quotes/friends/rachel</guid>
+        <link>http://harshi.co/Quotes/friends/rachel</link>
+        <guid isPermaLink="true">http://harshi.co/Quotes/friends/rachel</guid>
         
         
         <category>friends</category>
